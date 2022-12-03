@@ -1,8 +1,8 @@
 {
   "compilerOptions": {
-    "baseUrl": "src",
-    "checkJs": true,
+    "baseUrl": "./src",
     "jsx": "preserve"
+    // "checkJs": true,
   },
   "exclude": ["node_modules"]
 }
